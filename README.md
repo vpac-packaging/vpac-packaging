@@ -1,1 +1,24 @@
-IyBWUEFDIEludGVybmF0aW9uYWwgV2Vic2l0ZQoK8J+MkCBodHRwczovL3ZwYWMtaW50ZXJuYXRpb25hbC5jb20KCiMjIEFib3V0IFZQQUMKClZQQUMgSW50ZXJuYXRpb25hbCAtIEZsZXhpYmxlIHBhY2thZ2luZyBzb2x1dGlvbnMgZm9yIFNvdXRoZWFzdCBBc2lhLgoKKipLZXkgRmVhdHVyZXM6KioKLSA1MDBtIE1PUSAoTWluaW11bSBPcmRlciBRdWFudGl0eSkKLSA3Mi1ob3VyIHByb2R1Y3Rpb24gbGVhZCB0aW1lCi0gSFAgSW5kaWdvIGRpZ2l0YWwgcHJvb2ZpbmcKLSBTZXJ2aW5nOiBWaWV0bmFtLCBUaGFpbGFuZCwgTWFsYXlzaWEsIEluZG9uZXNpYSwgUGhpbGlwcGluZXMKCiMjIFRlY2ggU3RhY2sKClB1cmUgSFRNTC9DU1MvSlMgLSBubyBidWlsZCB0b29scyByZXF1aXJlZC4K
+# VPAC International Website 🌐
+
+**🚀 Live Site: https://vpac-packaging.github.io/vpac-packaging/**
+
+---
+
+## About VPAC International
+
+VPAC International - Flexible packaging solutions for Southeast Asia.
+
+**Key Features:**
+- 500m MOQ (Minimum Order Quantity)
+- 72-hour production lead time  
+- HP Indigo digital proofing (12-72 hours)
+- Serving: Vietnam · Thailand · Malaysia · Indonesia · Philippines
+
+## Pages
+
+- **English:** https://vpac-packaging.github.io/vpac-packaging/
+- **中文:** https://vpac-packaging.github.io/vpac-packaging/index_cn.html
+
+## Tech Stack
+
+Pure HTML/CSS/JS - no build tools required.
